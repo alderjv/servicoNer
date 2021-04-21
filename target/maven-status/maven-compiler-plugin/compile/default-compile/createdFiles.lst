@@ -1,0 +1,8 @@
+amazoninf\ner\controller\ModelController.class
+amazoninf\ner\App.class
+amazoninf\ner\models\IaModel.class
+amazoninf\ner\service\IModel.class
+amazoninf\ner\service\Treino.class
+amazoninf\ner\service\IaModelService.class
+amazoninf\ner\NerDto.class
+amazoninf\ner\repository\IaModelRepository.class
