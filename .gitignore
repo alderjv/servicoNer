@@ -1,0 +1,15 @@
+.project
+.classpath
+.settings/
+.sonar
+bin/
+target/
+.factorypath
+.directory
+*.iml
+.idea
+*/rebel.xml
+.vscode
+rebel.xml
+/.gitlab-ci.yml
+src/main/resources/application.properties
